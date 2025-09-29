@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<organization>
+		<name>Securin</name>
+		<type>Inc</type>
+		<building_number>4</building_number>
+		<floating>-17.4</floating>
+		<null_test></null_test>
+	</organization>
+	<security_related>true</security_related>
+	<array_example0>red</array_example0>
+	<array_example0>green</array_example0>
+	<array_example0>blue</array_example0>
+	<array_example0>black</array_example0>
+	<array_example1>1</array_example1>
+	<array_example1>red</array_example1>
+	<array_example1>
+		<nested>true</nested>
+	</array_example1>
+	<array_example1>
+		<obj>false</obj>
+	</array_example1>
+</root>
